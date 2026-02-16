@@ -14,6 +14,6 @@ RESEND_API_KEY=your_resend_api_key
 
 NEXT_PUBLIC_APP_URL=your_app_url
 
-#run the app
+##run the app
 1- npm install
 2- npm run dev
